@@ -1,0 +1,1318 @@
+The keys in this (top-level) hash are ["objects", "meta"].
+
+The class of first value is Array.
+
+The class of last value is Hash.
+
+There are 20 representatives in this collection.
+
+Photo URL:-
+["https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/DuvallScott_NDP.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/SidhuJati_Lib.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/MotzGlen_CPC.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/RatansiYasmin_LIB.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/SchmaleJamie_CPC.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/HollandMark_Lib.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/KhalidIqra_Lib.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/RamseyTracey_NDP.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/EasterWayne_Lib.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/ObhraiDeepak_CPC.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/FraserColin_Lib.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/NicholsonRob_CPC.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BoutinSweetMarjolaine_NDP.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/TootooHunter_Lib.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/VecchioKaren_CPC.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BertholdLuc_CPC.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/SainiRaj_Lib.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/CalkinsBlaine_CPC.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/NantelPierre_NDP.jpg", "https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/AboultaifZiad_CPC.jpg"]
+==============================================================
+Key1: objects
+Class1: Array
+Size1: 20
+==============================================================
+Key11: first_name
+Value11: Scott
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/35037/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Duvall
+Class11: String
+==============================================================
+Key11: email
+Value11: Scott.Duvall@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Hamilton Mountain
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Scott-Duvall(88780)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/DuvallScott_NDP.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: NDP
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Scott Duvall
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://scottduvall.ndp.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 992-7802", "type"=>"legislature", "tel"=>"1 613 995-9389", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 905 574-4980", "type"=>"constituency", "tel"=>"1 905 574-3331", "postal"=>"555 Concession Street (Main Office)\nUnit 2, Level 2\nHamilton ON  L8V 1A8"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Jati
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/59017/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Sidhu
+Class11: String
+==============================================================
+Key11: email
+Value11: Jati.Sidhu@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Mission—Matsqui—Fraser Canyon
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Jati-Sidhu(89288)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {"twitter"=>"https://twitter.com/VoteJatiSidhu"}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/SidhuJati_Lib.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Liberal
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Jati Sidhu
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://jsidhu.liberal.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 992-1298", "type"=>"legislature", "tel"=>"1 613 992-1248", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 604 814-5714", "type"=>"constituency", "tel"=>"1 604 814-5710", "postal"=>"32081 Lougheed Highway (Main Office)\nSuite B3\nMission BC  V2V 1A3"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Glen
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/48027/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Motz
+Class11: String
+==============================================================
+Key11: email
+Value11: glen.motz@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Medicine Hat—Cardston—Warner
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Glen-Motz(94305)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/MotzGlen_CPC.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Conservative
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Glen Motz
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://glenmotzmp.com
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 995-5752", "type"=>"legislature", "tel"=>"1 613 996-0633", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 403 528-4365", "type"=>"constituency", "tel"=>"1 844 781-9061", "postal"=>"2810 - 13th Avenue SE (Main Office)\nSuite 306\nMedicine Hat AB  T1A 3P9"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Yasmin
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/35019/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Ratansi
+Class11: String
+==============================================================
+Key11: email
+Value11: Yasmin.Ratansi@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Don Valley East
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Yasmin-Ratansi(25449)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/RatansiYasmin_LIB.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Liberal
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Yasmin Ratansi
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://yratansi.liberal.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 992-0945", "type"=>"legislature", "tel"=>"1 613 992-0919", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 416 443-1393", "type"=>"constituency", "tel"=>"1 416 443-0343", "postal"=>"220 Duncan Mill Road (Main Office)\nSuite 309\nToronto ON  M3B 3J5"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Jamie
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/35034/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Schmale
+Class11: String
+==============================================================
+Key11: email
+Value11: Jamie.Schmale@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Haliburton—Kawartha Lakes—Brock
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Jamie-Schmale(88770)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/SchmaleJamie_CPC.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Conservative
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Jamie Schmale
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://jamieschmale.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 996-9656", "type"=>"legislature", "tel"=>"1 613 992-2474", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 705 324-0880", "type"=>"constituency", "tel"=>"1 705 324-2400", "postal"=>"68 McLaughlin Road (Main Office)\n\nLindsay ON  K9V 6B5"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Mark
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/35001/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Holland
+Class11: String
+==============================================================
+Key11: email
+Value11: Mark.Holland@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Ajax
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Mark-Holland(25508)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/HollandMark_Lib.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Liberal
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Mark Holland
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://markhollandmp.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 996-1289", "type"=>"legislature", "tel"=>"1 613 995-8042", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 905 426-9564", "type"=>"constituency", "tel"=>"1 905 426-6808", "postal"=>"100 Old Kingston Road (Main Office)\nSuite 1\nAjax ON  L1T 2Z9"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Iqra
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/35060/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Khalid
+Class11: String
+==============================================================
+Key11: email
+Value11: Iqra.Khalid@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Mississauga—Erin Mills
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Iqra-Khalid(88849)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/KhalidIqra_Lib.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Liberal
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Iqra Khalid
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://ikhalid.liberal.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 992-6708", "type"=>"legislature", "tel"=>"1 613 995-7321", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 905 820-4068", "type"=>"constituency", "tel"=>"1 905 820-8814", "postal"=>"3100 Ridgeway Drive (Main Office)\nSuite 35\nMississauga ON  L5L 5M5"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Tracey
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/35026/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Ramsey
+Class11: String
+==============================================================
+Key11: email
+Value11: Tracey.Ramsey@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Essex
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Tracey-Ramsey(88745)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/RamseyTracey_NDP.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: NDP
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Tracey Ramsey
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://traceyramsey.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 995-0033", "type"=>"legislature", "tel"=>"1 613 992-1812", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 519 776-1383", "type"=>"constituency", "tel"=>"1 519 776-4700", "postal"=>"316 Talbot Street North (Main Office)\n\nEssex ON  N8M 2E1"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Wayne
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/11004/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Easter
+Class11: String
+==============================================================
+Key11: email
+Value11: wayne.easter@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Malpeque
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Wayne-Easter(43)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/EasterWayne_Lib.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Liberal
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Wayne Easter
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://wayneeaster.com
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 995-7408", "type"=>"legislature", "tel"=>"1 613 992-2406", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 902 964-3242", "type"=>"constituency", "tel"=>"1 800 442-4050", "postal"=>"4283 Route 13 (Main Office)\nUnit 1\nHunter River PE  C0A 1N0"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Deepak
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/48006/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Obhrai
+Class11: String
+==============================================================
+Key11: email
+Value11: deepak.obhrai@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Calgary Forest Lawn
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Deepak-Obhrai(1287)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {"twitter"=>"https://twitter.com/reelectdeepak"}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/ObhraiDeepak_CPC.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Conservative
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Deepak Obhrai
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://deepakobhrai.com
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 947-4569", "type"=>"legislature", "tel"=>"1 613 947-4566", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 403 207-3035", "type"=>"constituency", "tel"=>"1 403 207-3030", "postal"=>"525 - 28th Street SE\n(Main Office)\nSuite 225\nCalgary AB  T2A 6W9"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Colin
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/12011/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Fraser
+Class11: String
+==============================================================
+Key11: email
+Value11: Colin.Fraser@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: West Nova
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Colin-Fraser(88346)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/FraserColin_Lib.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Liberal
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Colin Fraser
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://colinfrasermp.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 996-9857", "type"=>"legislature", "tel"=>"1 613 995-5711", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 902 742-6815", "type"=>"constituency", "tel"=>"1 902 742-6808", "postal"=>"396 Main Street (Main Office)\nSuite 103\nYarmouth NS  B5A 1E9"}, {"fax"=>"1 902 825-3213", "type"=>"constituency", "tel"=>"1 902 825-3327", "postal"=>"2 George Street\n\nMiddleton NS  B0S 1P0"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Rob
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/35067/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Nicholson
+Class11: String
+==============================================================
+Key11: email
+Value11: rob.nicholson@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Niagara Falls
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Rob-Nicholson(820)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/NicholsonRob_CPC.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Conservative
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Rob Nicholson
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://www.robnicholson.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 992-7910", "type"=>"legislature", "tel"=>"1 613 995-1547", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"postal"=>"2895 St.Paul Avenue (Main Office)\nSuite 11\nNiagara Falls ON  L2J 2L3", "type"=>"constituency"}, {"postal"=>"35 Jarvis Street\nSuite 102\nFort Erie ON  L2A 2S3", "type"=>"constituency"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Marjolaine
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/24028/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Boutin-Sweet
+Class11: String
+==============================================================
+Key11: email
+Value11: Marjolaine.Boutin-Sweet@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Hochelaga
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Marjolaine-Boutin-Sweet(71395)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BoutinSweetMarjolaine_NDP.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: NDP
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Marjolaine Boutin-Sweet
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://marjolaineboutinsweet.ndp.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 947-4579", "type"=>"legislature", "tel"=>"1 613 947-4576", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 514 283-6485", "type"=>"constituency", "tel"=>"1 514 283-2655", "postal"=>"2030 Pie-IX Blvd (Main Office)\nSuite 225\nMontréal QC  H1V 2C8"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Hunter
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/62001/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Tootoo
+Class11: String
+==============================================================
+Key11: email
+Value11: Hunter.Tootoo@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Nunavut
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Hunter-Tootoo(1665)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/TootooHunter_Lib.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Independent
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Hunter Tootoo
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: 
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 996-9764", "type"=>"legislature", "tel"=>"1 613 992-2848", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 867 979-4196", "type"=>"constituency", "tel"=>"1 867 979-4193", "postal"=>"922 Niagunngusiaq Road (Main Office)\nSuite 101\nIqaluit NU  X0A 0H0"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Karen
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/35025/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Vecchio
+Class11: String
+==============================================================
+Key11: email
+Value11: Karen.Vecchio@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Elgin—Middlesex—London
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Karen-Vecchio(88742)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {"twitter"=>"https://twitter.com/karen_vecchio"}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/VecchioKaren_CPC.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Conservative
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Karen Vecchio
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://karenvecchiomp.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 996-0194", "type"=>"legislature", "tel"=>"1 613 990-7769", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 519 637-3358", "type"=>"constituency", "tel"=>"1 519 637-2255", "postal"=>"750 Talbot Street (Main Office)\nSuite 203\nSt. Thomas ON  N5P 1E2"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Luc
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/24047/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Berthold
+Class11: String
+==============================================================
+Key11: email
+Value11: Luc.Berthold@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Mégantic—L'Érable
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Luc-Berthold(88541)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BertholdLuc_CPC.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Conservative
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Luc Berthold
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: 
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 943-1562", "type"=>"legislature", "tel"=>"1 613 995-1377", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 418 338-3631", "type"=>"constituency", "tel"=>"1 418 338-2903", "postal"=>"105A Notre-Dame Street East (Main Office)\n\nThetford Mines QC  G6G 2J9"}, {"postal"=>"1470 Trudelle Avenue\nSuite 302\nPlessisville QC  G6L 3K4", "type"=>"constituency", "tel"=>"1 819 362-0055"}, {"postal"=>"5527 Frontenac Street\nSuite 212\nLac-Mégantic QC  G6B 1H6", "type"=>"constituency", "tel"=>"1 819 583-0074"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Raj
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/35045/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Saini
+Class11: String
+==============================================================
+Key11: email
+Value11: Raj.Saini@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Kitchener Centre
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Raj-Saini(88807)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/SainiRaj_Lib.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Liberal
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Raj Saini
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: 
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 996-7329", "type"=>"legislature", "tel"=>"1 613 995-8913", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 519 579-2404", "type"=>"constituency", "tel"=>"1 519 741-2001", "postal"=>"209 Frederick Street (Main Office)\nSuite 202\nKitchener ON  N2H 2M7"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Blaine
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/48030/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Calkins
+Class11: String
+==============================================================
+Key11: email
+Value11: blaine.calkins@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Red Deer—Lacombe
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Blaine-Calkins(35897)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {"twitter"=>"https://twitter.com/blainecalkinsmp"}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/CalkinsBlaine_CPC.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Conservative
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Blaine Calkins
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://blainecalkinsmp.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 996-9860", "type"=>"legislature", "tel"=>"1 613 995-8886", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 587 621-0029", "type"=>"constituency", "tel"=>"1 587 621-0020", "postal"=>"5025 Parkwood Road (Main Office)\nSuite 201\nBlackfalds AB  T0M 0J0"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Pierre
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/24043/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Nantel
+Class11: String
+==============================================================
+Key11: email
+Value11: Pierre.Nantel@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Longueuil—Saint-Hubert
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Pierre-Nantel(71447)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/NantelPierre_NDP.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: NDP
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Pierre Nantel
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://pierrenantel.ndp.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 992-2744", "type"=>"legislature", "tel"=>"1 613 992-8514", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 450 928-4293", "type"=>"constituency", "tel"=>"1 450 928-4288", "postal"=>"192 Saint-Jean Street (Main Office)\nSuite 200\nLongueuil QC  J4H 2X5"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key11: first_name
+Value11: Ziad
+Class11: String
+==============================================================
+Key11: related
+Value11: {"representative_set_url"=>"/representative-sets/house-of-commons/", "boundary_url"=>"/boundaries/federal-electoral-districts/48016/"}
+Class11: Hash
+==============================================================
+Key11: last_name
+Value11: Aboultaif
+Class11: String
+==============================================================
+Key11: email
+Value11: Ziad.Aboultaif@parl.gc.ca
+Class11: String
+==============================================================
+Key11: district_name
+Value11: Edmonton Manning
+Class11: String
+==============================================================
+Key11: url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members/Ziad-Aboultaif(89156)
+Class11: String
+==============================================================
+Key11: gender
+Value11: 
+Class11: String
+==============================================================
+Key11: extra
+Value11: {}
+Class11: Hash
+==============================================================
+Key11: photo_url
+Value11: https://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/AboultaifZiad_CPC.jpg
+Class11: String
+==============================================================
+Key11: party_name
+Value11: Conservative
+Class11: String
+==============================================================
+Key11: elected_office
+Value11: MP
+Class11: String
+==============================================================
+Key11: representative_set_name
+Value11: House of Commons
+Class11: String
+==============================================================
+Key11: name
+Value11: Ziad Aboultaif
+Class11: String
+==============================================================
+Key11: personal_url
+Value11: http://ziadaboultaif.ca
+Class11: String
+==============================================================
+Key11: offices
+Value11: [{"fax"=>"1 613 992-0973", "type"=>"legislature", "tel"=>"1 613 992-0946", "postal"=>"House of Commons\nOttawa ON  K1A 0A6"}, {"fax"=>"1 780 822-1544", "type"=>"constituency", "tel"=>"1 780 822-1540", "postal"=>"8119 - 160 Avenue (Main Office)\nSuite 204A\nEdmonton AB  T5Z 0G3"}]
+Class11: Array
+==============================================================
+Key11: source_url
+Value11: http://www.parl.gc.ca/Parliamentarians/en/members?view=ListAll
+Class11: String
+==============================================================
+Key1: meta
+Class1: Hash
+Size1: 5
+==============================================================
+Key12: offset
+Value12: 0
+Class12: Fixnum
+==============================================================
+Key12: total_count
+Value12: 336
+Class12: Fixnum
+==============================================================
+Key12: next
+Value12: /representatives/house-of-commons/?offset=20&limit=20
+Class12: String
+==============================================================
+Key12: previous
+Value12: 
+Class12: NilClass
+==============================================================
+Key12: limit
+Value12: 20
+Class12: Fixnum
